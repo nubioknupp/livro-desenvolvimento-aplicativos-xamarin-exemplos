@@ -135,7 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FormsExample\FormsExample.csproj">
-      <Project>{578e6700-c815-42db-a7f4-466090d01e08}</Project>
+      <Project>{A28F8A40-FC42-469E-8D64-C88AA19D02A9}</Project>
       <Name>FormsExample</Name>
     </ProjectReference>
   </ItemGroup>
