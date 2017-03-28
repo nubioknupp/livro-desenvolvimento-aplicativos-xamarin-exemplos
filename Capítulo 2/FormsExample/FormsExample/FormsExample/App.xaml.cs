@@ -13,7 +13,9 @@ namespace FormsExample
         {
             InitializeComponent();
 
+
             MainPage = new FormsExample.MainPage();
+
         }
 
         protected override void OnStart()
