@@ -2,9 +2,9 @@
 
 namespace FormsExample
 {
-	public partial class MainPage : ContentPage
+	public partial class ContentPageExample : ContentPage
 	{
-		public MainPage()
+		public ContentPageExample()
 		{
 			InitializeComponent();
 		}
